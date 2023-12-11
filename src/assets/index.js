@@ -27,6 +27,10 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import synlogic from "./company/synlogic.png";
+import fresenius from "./company/fresenius.png";
+import entrada from "./company/entrada.png";
+import moodme from "./company/moodme.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -63,4 +67,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  synlogic,
+  fresenius,
+  entrada,
+  moodme,
 };
