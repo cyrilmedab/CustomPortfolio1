@@ -29,6 +29,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    shadeandthecity,
+    arcamera,
+    catanxr,
   } from "../assets";
   
   export const navLinks = [
@@ -197,67 +200,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "AR Camera",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "AR mobile application that allows users to view different face filters, snap a neat polaroid photo, and save it to a gallery for later viewing.",
       tags: [
         {
-          name: "react",
+          name: "unity",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "ar-core",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "firebase",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: arcamera,
+      source_code_link: "https://github.com/cyrilmedab/AR_Camera_2",
     },
     {
-      name: "Job IT",
+      name: "Catan XR",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A mixed-reality sandbox Catan experience that features realtime online multiplayer and voice chat through Photon Fusion and fully networked Meta Avatars. Users can enjoy the freedom to play the game however they want to play it, with realistic dice physics and minimal automated controls.",
       tags: [
         {
-          name: "react",
+          name: "unity",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "meta presence platform",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "photon",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: catanxr,
+      source_code_link: "https://github.com/XRBootcamp/MVP-5C-S1-CatanXR",
     },
     {
-      name: "Trip Guide",
+      name: "Shade and the City",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "unity",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "ar-core",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "google geospatial api",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: shadeandthecity,
+      source_code_link: "https://github.com/XRBootcamp/Shade-and-shadow-in-SF",
     },
   ];
   

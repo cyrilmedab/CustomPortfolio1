@@ -35,6 +35,9 @@ import moodme from "./company/moodme.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import shadeandthecity from "./shadeandthecity.png"
+import arcamera from "./arcamera.png";
+import catanxr from "./catanxr.png";
 
 export {
   logo,
@@ -64,11 +67,14 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
   synlogic,
   fresenius,
   entrada,
   moodme,
+  carrent,
+  jobit,
+  tripguide,
+  shadeandthecity,
+  arcamera,
+  catanxr,
 };
