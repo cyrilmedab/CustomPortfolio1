@@ -244,7 +244,7 @@ import {
     {
       name: "Shade and the City",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "An AR mobile app and archietectural tool designed to leverage the immense details of Google's Geospatial API to recreate cities around the world and examine the path of lights and shadows over time in each of them.",
       tags: [
         {
           name: "unity",
