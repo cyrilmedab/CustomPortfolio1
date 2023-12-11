@@ -3,6 +3,7 @@ import {
     backend,
     creator,
     web,
+    unity,
     javascript,
     typescript,
     html,
@@ -15,6 +16,7 @@ import {
     git,
     figma,
     docker,
+    firebase,
     meta,
     starbucks,
     tesla,
@@ -42,24 +44,28 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "XR Software Engineer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Unity3D Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "React + Three Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Fullstack Engineer",
       icon: creator,
     },
   ];
   
   const technologies = [
+    {
+      name: "Unity",
+      icon: unity,
+    },
     {
       name: "HTML 5",
       icon: html,
@@ -71,10 +77,6 @@ import {
     {
       name: "JavaScript",
       icon: javascript,
-    },
-    {
-      name: "TypeScript",
-      icon: typescript,
     },
     {
       name: "React JS",
@@ -89,16 +91,16 @@ import {
       icon: tailwind,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
       name: "Three JS",
       icon: threejs,
+    },
+    {
+      name: "Firebase",
+      icon: firebase,
+    },
+    {
+      name: "Node JS",
+      icon: nodejs,
     },
     {
       name: "git",
@@ -107,10 +109,6 @@ import {
     {
       name: "figma",
       icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
